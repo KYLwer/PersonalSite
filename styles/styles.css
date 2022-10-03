@@ -1,0 +1,128 @@
+body{
+  margin: 0;
+}
+h1{
+  padding-top: 50px;
+  font-family: 'Acme', sans-serif;
+  font-size: 90px;
+}
+h2{
+  font-family: 'Fredoka One', cursive;
+  font-size: 45px;
+}
+h3{
+  font-family: 'Fredoka One', cursive;
+  font-size: 45px;
+}
+p{
+  font-family: 'Roboto', cursive;
+  line-height: 2;
+}
+hr{
+  border-style: dotted none none none;
+  border-width: 8px;
+  width: 10%;
+  margin: 50px auto;
+  color: #7895B2;
+}
+a{
+  font-family: 'Roboto', cursive;
+}
+.top-container{
+  padding-top: 80px;
+  text-align: center;
+  background-color: #72FFFF;
+}
+.microvolcanoconiosis{
+  text-decoration: underline;
+}
+.right-cloud{
+  position: absolute;
+  right: 300px;
+}
+.left-cloud{
+  position: absolute;
+  left: 300px;
+}
+.middle-container{
+  padding: 50px 0;
+  text-align: center;
+  background-color: #E8DFCA;
+}
+.profile{
+  margin: auto;
+  width: 30%;
+}
+.skill-row{
+  margin: 70px auto;
+  text-align: left;
+  width: 50%;
+}
+.COOKING-img{
+  float: left;
+  margin-right: 50px;
+}
+.CAR-img{
+  float: right;
+  width: 15%;
+  margin-left: 50px;
+}
+.contact-message{
+  margin: auto auto 50px;
+  width: 25%;
+}
+.btn {
+   background: #3D94F6;
+   background-image: -webkit-linear-gradient(top, #3D94F6, #D2DAFF);
+   background-image: -moz-linear-gradient(top, #3D94F6, #D2DAFF);
+   background-image: -ms-linear-gradient(top, #3D94F6, #D2DAFF);
+   background-image: -o-linear-gradient(top, #3D94F6, #D2DAFF);
+   background-image: -webkit-gradient(to bottom, #3D94F6, #D2DAFF);
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   color: #FFF5E4;
+   font-family: 'Acme', sans-serif;
+   font-size: 25px;
+   font-weight: 100;
+   padding: 30px;
+   -webkit-box-shadow: 1px 1px 4px 0 #000000;
+   -moz-box-shadow: 1px 1px 4px 0 #000000;
+   box-shadow: 1px 1px 4px 0 #000000;
+   text-shadow: 1px 1px 20px #000000;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+}
+
+.btn:hover {
+   border: solid #337FED 1px;
+   background: #1E62D0;
+   background-image: -webkit-linear-gradient(top, #1E62D0, #3D94F6);
+   background-image: -moz-linear-gradient(top, #1E62D0, #3D94F6);
+   background-image: -ms-linear-gradient(top, #1E62D0, #3D94F6);
+   background-image: -o-linear-gradient(top, #1E62D0, #3D94F6);
+   background-image: -webkit-gradient(to bottom, #1E62D0, #3D94F6);
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   text-decoration: none;
+}
+.bottom-container{
+  background-color: #1C6758;
+  text-align: center;
+  padding: 50px;
+}
+.footer-link{
+  margin: 0 20px;
+  text-decoration: none;
+  color: #C3F8FF;
+}
+.footer-link:hover{
+  color: #F5EDDC;
+}
+.credit{
+  margin-top: 40px;
+  color: #C3F8FF;
+}
